@@ -254,9 +254,22 @@ elif page == "🎯 Goals":
                     st.rerun()
     
     # Display goals
-    if not goals_df.empty:
-        st.subheader("Your Goals")
-        for idx, row in goals_df.iterrows():
+goals_df = goal_manager.load_goals() # Reload all goals just in case
+
+if not goals_df.empty:
+    
+    # --- NEW: Filter out completed goals to make them disappear ---
+    goals_to_display = goals_df[goals_df["status"] != "Completed"].copy()
+
+    st.subheader("Your Active Goals") # Changed header for clarity
+    
+    if goals_to_display.empty:
+        st.info("Congratulations! You have no active goals. Add a new one above! 🎉")
+    else:
+        # Iterate over the FILTERED list (goals_to_display)
+        for idx, row in goals_to_display.iterrows():
+            # Use row['id'] for stable keys and updates
+            goal_id = row['id'] 
             with st.expander(f"{row['title']} - {row['status']}"):
                 col1, col2 = st.columns(2)
                 with col1:
@@ -267,11 +280,11 @@ elif page == "🎯 Goals":
                         "Status:",
                         ["Not Started", "In Progress", "Completed"],
                         index=["Not Started", "In Progress", "Completed"].index(row["status"]),
-                        key=f"status_{row['id']}"
+                        key=f"status_{goal_id}" # Use the stable ID
                     )
                     if new_status != row["status"]:
                         # Uses GoalManager method to update
-                        goal_manager.update_goal_status(row["id"], new_status) 
+                        goal_manager.update_goal_status(goal_id, new_status) 
                         st.rerun()
 
 elif page == "📈 Analytics":
