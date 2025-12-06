@@ -1,0 +1,12 @@
+id,title,description,deadline,status
+1,Complete Python Basics,Finish mastering Python fundamentals including data structures and functions,2025-08-15,Completed
+2,Master Data Manipulation,Learn Pandas and NumPy thoroughly,2025-08-22,Completed
+3,Build AI Career Tracker MVP,Create an MVP for the AI Career Tracker app,2025-08-30,Completed
+4,Complete Intro ML Course,Finish an introductory Machine Learning course (Coursera or fast.ai),2025-09-10,Not Started
+5,Build Random Forest Classifier,Implement and test Random Forest models with scikit-learn,2025-09-20,Not Started
+6,Start NLP Project,Build a simple NLP project such as sentiment analysis,2025-09-30,Not Started
+7,Finish AI-Powered Resume Analyzer,Complete the AI Resume Analyzer project with NLP & prompt engineering,2025-10-15,Not Started
+8,Complete Commodity Price Prediction,Develop and finalize LSTM time series forecasting for commodity prices,2025-10-31,Not Started
+9,Build Portfolio & GitHub,Prepare a professional portfolio and upload all projects to GitHub,2025-10-28,In Progress
+10,Apply for AI Jobs,Submit job applications and prepare for interviews in AI-related roles,2025-10-31,Not Started
+11,study,,2025-12-06,Completed

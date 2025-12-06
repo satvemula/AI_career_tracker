@@ -1,0 +1,419 @@
+date,category,task,completed,created_at
+2025-08-08,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-08,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-08-09,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-09,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-08-10,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-10,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-08-11,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-11,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-08-12,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-12,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-08-12,Personal Brand,Post video and engage with followers,False,2025-08-07 15:18:09.546226
+2025-08-12,AI Learning,Practice Python coding exercises,False,2025-08-07 15:18:09.546226
+2025-08-13,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-13,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-08-14,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-14,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-08-14,Personal Brand,Film/edit new video content,False,2025-08-07 15:18:09.546226
+2025-08-14,AI Learning,Watch ML course video or webinar,False,2025-08-07 15:18:09.546226
+2025-08-15,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-15,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-08-16,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-16,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-08-16,Personal Brand,Analyze engagement and plan next week content,False,2025-08-07 15:18:09.546226
+2025-08-16,Networking,Reach out to 1 AI professional or influencer,False,2025-08-07 15:18:09.546226
+2025-08-17,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-17,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-08-18,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-18,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-08-19,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-19,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-08-20,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-20,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-08-21,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-21,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-08-21,Personal Brand,Post video and engage with followers,False,2025-08-07 15:18:09.546226
+2025-08-21,AI Learning,Practice Python coding exercises,False,2025-08-07 15:18:09.546226
+2025-08-22,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-22,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-08-23,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-23,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-08-24,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-24,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-08-25,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-25,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-08-26,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-26,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-08-26,Personal Brand,Film/edit new video content,False,2025-08-07 15:18:09.546226
+2025-08-26,AI Learning,Watch ML course video or webinar,False,2025-08-07 15:18:09.546226
+2025-08-27,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-27,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-08-28,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-28,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-08-28,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn) classification) - Day 1 of 22,False,2025-08-07 15:18:09.546226
+2025-08-29,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-29,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-08-29,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 2 of 22,False,2025-08-07 15:18:09.546226
+2025-08-30,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-30,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-08-30,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 3 of 22,False,2025-08-07 15:18:09.546226
+2025-08-31,Workout,Run 3 miles,False,2025-08-07 15:18:09.546226
+2025-08-31,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-08-31,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 4 of 22,False,2025-08-07 15:18:09.546226
+2025-09-01,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 5 of 22,False,2025-08-07 15:18:09.546226
+2025-09-01,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-01,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-09-02,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 6 of 22,False,2025-08-07 15:18:09.546226
+2025-09-02,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-02,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-09-03,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 7 of 22,False,2025-08-07 15:18:09.546226
+2025-09-03,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-03,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-09-04,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 8 of 22,False,2025-08-07 15:18:09.546226
+2025-09-04,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-04,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-09-05,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 9 of 22,False,2025-08-07 15:18:09.546226
+2025-09-05,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-05,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-09-06,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 10 of 22,False,2025-08-07 15:18:09.546226
+2025-09-06,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-06,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-09-07,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 11 of 22,False,2025-08-07 15:18:09.546226
+2025-09-07,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-07,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-09-08,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 12 of 22,False,2025-08-07 15:18:09.546226
+2025-09-08,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-08,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-09-09,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 13 of 22,False,2025-08-07 15:18:09.546226
+2025-09-09,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-09,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-09-10,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 14 of 22,False,2025-08-07 15:18:09.546226
+2025-09-10,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-10,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-09-11,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 15 of 22,False,2025-08-07 15:18:09.546226
+2025-09-11,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-11,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-09-12,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 16 of 22,False,2025-08-07 15:18:09.546226
+2025-09-12,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-12,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-09-13,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 17 of 22,False,2025-08-07 15:18:09.546226
+2025-09-13,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-13,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-09-14,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 18 of 22,False,2025-08-07 15:18:09.546226
+2025-09-14,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-14,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-09-15,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 19 of 22,False,2025-08-07 15:18:09.546226
+2025-09-15,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-15,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-09-16,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 20 of 22,False,2025-08-07 15:18:09.546226
+2025-09-16,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-16,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-09-17,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 21 of 22,False,2025-08-07 15:18:09.546226
+2025-09-17,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-17,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-09-18,Project,Credit Risk Scoring Model (Loan approval using ML models - Python (scikit-learn)classification\) - Day 22 of 22,False,2025-08-07 15:18:09.546226
+2025-09-18,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-18,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-09-19,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 1 of 20,False,2025-08-07 15:18:09.546226
+2025-09-19,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-19,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-09-20,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 2 of 20,False,2025-08-07 15:18:09.546226
+2025-09-20,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-20,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-09-21,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 3 of 20,False,2025-08-07 15:18:09.546226
+2025-09-21,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-21,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-09-22,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 4 of 20,False,2025-08-07 15:18:09.546226
+2025-09-22,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-22,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-09-23,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 5 of 20,False,2025-08-07 15:18:09.546226
+2025-09-23,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-23,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-09-24,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 6 of 20,False,2025-08-07 15:18:09.546226
+2025-09-24,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-24,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-09-25,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 7 of 20,False,2025-08-07 15:18:09.546226
+2025-09-25,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-25,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-09-26,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 8 of 20,False,2025-08-07 15:18:09.546226
+2025-09-26,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-26,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-09-27,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 9 of 20,False,2025-08-07 15:18:09.546226
+2025-09-27,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-27,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-09-28,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 10 of 20,False,2025-08-07 15:18:09.546226
+2025-09-28,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-28,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-09-29,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 11 of 20,False,2025-08-07 15:18:09.546226
+2025-09-29,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-29,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-09-30,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 12 of 20,False,2025-08-07 15:18:09.546226
+2025-09-30,Workout,Run 4 miles,False,2025-08-07 15:18:09.546226
+2025-09-30,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-10-01,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 13 of 20,False,2025-08-07 15:18:09.546226
+2025-10-01,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-01,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-10-02,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 14 of 20,False,2025-08-07 15:18:09.546226
+2025-10-02,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-02,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-10-03,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 15 of 20,False,2025-08-07 15:18:09.546226
+2025-10-03,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-03,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-10-04,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 16 of 20,False,2025-08-07 15:18:09.546226
+2025-10-04,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-04,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-10-05,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 17 of 20,False,2025-08-07 15:18:09.546226
+2025-10-05,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-05,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-10-06,Project,Valuation Dashboard (DCF) (Automate DCF with Dash/Streamlit add AI scoring) - Day 18 of 20,False,2025-08-07 15:18:09.546226
+2025-10-06,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-06,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-10-07,Project,Valuation Dashboard (DCF) - Finalize & deploy,False,2025-08-07 15:18:09.546226
+2025-10-07,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-07,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-10-08,Project,Sales Funnel Optimization (Use sales data predictive insights) - Day 1 of 15,False,2025-08-07 15:18:09.546226
+2025-10-08,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-08,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-10-09,Project,Sales Funnel Optimization - Day 2 of 15,False,2025-08-07 15:18:09.546226
+2025-10-09,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-09,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-10-10,Project,Sales Funnel Optimization - Day 3 of 15,False,2025-08-07 15:18:09.546226
+2025-10-10,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-10,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-10-11,Project,Sales Funnel Optimization - Day 4 of 15,False,2025-08-07 15:18:09.546226
+2025-10-11,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-11,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-10-12,Project,Sales Funnel Optimization - Day 5 of 15,False,2025-08-07 15:18:09.546226
+2025-10-12,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-12,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-10-13,Project,Sales Funnel Optimization - Day 6 of 15,False,2025-08-07 15:18:09.546226
+2025-10-13,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-13,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-10-14,Project,Sales Funnel Optimization - Day 7 of 15,False,2025-08-07 15:18:09.546226
+2025-10-14,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-14,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-10-15,Project,Sales Funnel Optimization - Day 8 of 15,False,2025-08-07 15:18:09.546226
+2025-10-15,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-15,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-10-16,Project,Sales Funnel Optimization - Day 9 of 15,False,2025-08-07 15:18:09.546226
+2025-10-16,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-16,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-10-17,Project,Sales Funnel Optimization - Day 10 of 15,False,2025-08-07 15:18:09.546226
+2025-10-17,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-17,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-10-18,Project,Sales Funnel Optimization - Day 11 of 15,False,2025-08-07 15:18:09.546226
+2025-10-18,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-18,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-10-19,Project,Sales Funnel Optimization - Day 12 of 15,False,2025-08-07 15:18:09.546226
+2025-10-19,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-19,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-10-20,Project,Sales Funnel Optimization - Day 13 of 15,False,2025-08-07 15:18:09.546226
+2025-10-20,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-20,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-10-21,Project,Sales Funnel Optimization - Day 14 of 15,False,2025-08-07 15:18:09.546226
+2025-10-21,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-21,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-10-22,Project,Sales Funnel Optimization - Finalize report and presentation,False,2025-08-07 15:18:09.546226
+2025-10-22,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-22,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-10-23,Project,Market Entry Strategy (Strategy consulting style analysis) - Day 1 of 10,False,2025-08-07 15:18:09.546226
+2025-10-23,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-23,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-10-24,Project,Market Entry Strategy - Day 2 of 10,False,2025-08-07 15:18:09.546226
+2025-10-24,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-24,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-10-25,Project,Market Entry Strategy - Day 3 of 10,False,2025-08-07 15:18:09.546226
+2025-10-25,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-25,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-10-26,Project,Market Entry Strategy - Day 4 of 10,False,2025-08-07 15:18:09.546226
+2025-10-26,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-26,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-10-27,Project,Market Entry Strategy - Day 5 of 10,False,2025-08-07 15:18:09.546226
+2025-10-27,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-27,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-10-28,Project,Market Entry Strategy - Day 6 of 10,False,2025-08-07 15:18:09.546226
+2025-10-28,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-28,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-10-29,Project,Market Entry Strategy - Day 7 of 10,False,2025-08-07 15:18:09.546226
+2025-10-29,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-29,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-10-30,Project,Market Entry Strategy - Day 8 of 10,False,2025-08-07 15:18:09.546226
+2025-10-30,Workout,Run 5 miles,False,2025-08-07 15:18:09.546226
+2025-10-30,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-10-31,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-11-01,Project,Market Entry Strategy - Final day (Day 10 of 10),False,2025-08-07 15:18:09.546226
+2025-11-01,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-01,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-11-02,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-02,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-11-03,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-03,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-11-04,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-04,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-11-05,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-05,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-11-06,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-06,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-11-07,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-07,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-11-08,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-08,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-11-09,Project,Database Design (PostgreSQL) - Day 1 of 11,False,2025-08-07 15:18:09.546226
+2025-11-09,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-09,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-11-10,Project,Database Design (PostgreSQL) - Day 2 of 11,False,2025-08-07 15:18:09.546226
+2025-11-10,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-10,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-11-11,Project,Database Design (PostgreSQL) - Day 3 of 11,False,2025-08-07 15:18:09.546226
+2025-11-11,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-11,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-11-12,Project,Database Design (PostgreSQL) - Day 4 of 11,False,2025-08-07 15:18:09.546226
+2025-11-12,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-12,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-11-13,Project,Database Design (PostgreSQL) - Day 5 of 11,False,2025-08-07 15:18:09.546226
+2025-11-13,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-13,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-11-14,Project,Database Design (PostgreSQL) - Day 6 of 11,False,2025-08-07 15:18:09.546226
+2025-11-14,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-14,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-11-15,Project,Database Design (PostgreSQL) - Day 7 of 11,False,2025-08-07 15:18:09.546226
+2025-11-15,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-15,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-11-16,Project,Database Design (PostgreSQL) - Day 8 of 11,False,2025-08-07 15:18:09.546226
+2025-11-16,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-16,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-11-17,Project,Database Design (PostgreSQL) - Day 9 of 11,False,2025-08-07 15:18:09.546226
+2025-11-17,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-17,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-11-18,Project,Database Design (PostgreSQL) - Day 10 of 11,False,2025-08-07 15:18:09.546226
+2025-11-18,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-18,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-11-19,Project,Database Design (PostgreSQL) - Day 11 of 11,False,2025-08-07 15:18:09.546226
+2025-11-19,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-19,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-11-20,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-20,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-11-21,Project,CRM Enhancement Plan (UI/UX Systems Integration) - Day 1 of 11,False,2025-08-07 15:18:09.546226
+2025-11-21,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-21,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-11-22,Project,CRM Enhancement Plan - Day 2 of 11,False,2025-08-07 15:18:09.546226
+2025-11-22,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-22,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-11-23,Project,CRM Enhancement Plan - Day 3 of 11,False,2025-08-07 15:18:09.546226
+2025-11-23,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-23,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-11-24,Project,Financial Statement Analyzer (Automated financial ratio analysis) - Day 1 of 5,False,2025-08-07 15:18:09.546226
+2025-11-24,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-24,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-11-25,Project,CRM Enhancement Plan - Day 4 of 11,False,2025-08-07 15:18:09.546226
+2025-11-25,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-25,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-11-26,Project,CRM Enhancement Plan - Day 5 of 11,False,2025-08-07 15:18:09.546226
+2025-11-26,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-26,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-11-27,Project,CRM Enhancement Plan - Day 6 of 11,False,2025-08-07 15:18:09.546226
+2025-11-27,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-27,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-11-28,Project,Financial Statement Analyzer - Day 2 of 5,False,2025-08-07 15:18:09.546226
+2025-11-28,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-28,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-11-29,Project,CRM Enhancement Plan - Day 7 of 11,False,2025-08-07 15:18:09.546226
+2025-11-29,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-29,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-11-30,Project,CRM Enhancement Plan - Day 8 of 11,False,2025-08-07 15:18:09.546226
+2025-11-30,Workout,Run 6 miles,False,2025-08-07 15:18:09.546226
+2025-11-30,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-12-01,Project,CRM Enhancement Plan - Day 9 of 11,False,2025-08-07 15:18:09.546226
+2025-12-01,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-01,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-12-02,Project,CRM Enhancement Plan - Day 10 of 11,False,2025-08-07 15:18:09.546226
+2025-12-02,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-02,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-12-03,Project,Churn Prediction Model (Customer retention classification) - Day 1 of 16,False,2025-08-07 15:18:09.546226
+2025-12-03,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-03,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-12-04,Project,Churn Prediction Model - Day 2 of 16,False,2025-08-07 15:18:09.546226
+2025-12-04,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-04,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-12-05,Project,Churn Prediction Model - Day 3 of 16,False,2025-08-07 15:18:09.546226
+2025-12-05,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-05,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-12-06,Project,Churn Prediction Model - Day 4 of 16,False,2025-08-07 15:18:09.546226
+2025-12-06,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-06,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-12-07,Project,Churn Prediction Model - Day 5 of 16,False,2025-08-07 15:18:09.546226
+2025-12-07,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-07,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-12-08,Project,Churn Prediction Model - Day 6 of 16,False,2025-08-07 15:18:09.546226
+2025-12-08,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-08,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-12-09,Project,Churn Prediction Model - Day 7 of 16,False,2025-08-07 15:18:09.546226
+2025-12-09,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-09,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-12-10,Project,Churn Prediction Model - Day 8 of 16,False,2025-08-07 15:18:09.546226
+2025-12-10,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-10,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-12-11,Project,Churn Prediction Model - Day 9 of 16,False,2025-08-07 15:18:09.546226
+2025-12-11,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-11,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-12-12,Project,Churn Prediction Model - Day 10 of 16,False,2025-08-07 15:18:09.546226
+2025-12-12,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-12,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-12-13,Project,Churn Prediction Model - Day 11 of 16,False,2025-08-07 15:18:09.546226
+2025-12-13,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-13,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-12-14,Project,Churn Prediction Model - Day 12 of 16,False,2025-08-07 15:18:09.546226
+2025-12-14,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-14,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-12-15,Project,Churn Prediction Model - Day 13 of 16,False,2025-08-07 15:18:09.546226
+2025-12-15,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-15,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-12-16,Project,Churn Prediction Model - Day 14 of 16,False,2025-08-07 15:18:09.546226
+2025-12-16,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-16,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-12-17,Project,Churn Prediction Model - Day 15 of 16,False,2025-08-07 15:18:09.546226
+2025-12-17,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-17,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-12-18,Project,Churn Prediction Model - Final day and presentation,False,2025-08-07 15:18:09.546226
+2025-12-18,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-18,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-12-19,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-19,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-12-20,Project,Clustering for Market Segmentation (Unsupervised ML project) - Day 1 of 15,False,2025-08-07 15:18:09.546226
+2025-12-20,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-20,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-12-21,Project,Clustering for Market Segmentation - Day 2 of 15,False,2025-08-07 15:18:09.546226
+2025-12-21,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-21,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-12-22,Project,Clustering for Market Segmentation - Day 3 of 15,False,2025-08-07 15:18:09.546226
+2025-12-22,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-22,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-12-23,Project,Clustering for Market Segmentation - Day 4 of 15,False,2025-08-07 15:18:09.546226
+2025-12-23,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-23,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-12-24,Project,Clustering for Market Segmentation - Day 5 of 15,False,2025-08-07 15:18:09.546226
+2025-12-24,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-24,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-12-25,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-25,Workout,Chest day workout,False,2025-08-07 15:18:09.546226
+2025-12-26,Project,Clustering for Market Segmentation - Day 6 of 15,False,2025-08-07 15:18:09.546226
+2025-12-26,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-26,Workout,Plyometric day workout,False,2025-08-07 15:18:09.546226
+2025-12-27,Project,Clustering for Market Segmentation - Day 7 of 15,False,2025-08-07 15:18:09.546226
+2025-12-27,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-27,Workout,Movement day workout,False,2025-08-07 15:18:09.546226
+2025-12-28,Project,Clustering for Market Segmentation - Day 8 of 15,False,2025-08-07 15:18:09.546226
+2025-12-28,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-28,Workout,Shoulder day workout,False,2025-08-07 15:18:09.546226
+2025-12-29,Project,Clustering for Market Segmentation - Day 9 of 15,False,2025-08-07 15:18:09.546226
+2025-12-29,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-29,Workout,Yoga workout,False,2025-08-07 15:18:09.546226
+2025-12-30,Project,Clustering for Market Segmentation - Day 10 of 15,False,2025-08-07 15:18:09.546226
+2025-12-30,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-30,Workout,Leg day workout,False,2025-08-07 15:18:09.546226
+2025-12-31,Project,Clustering for Market Segmentation - Finalize and submit,False,2025-08-07 15:18:09.546226
+2025-12-31,Workout,Run 7 miles,False,2025-08-07 15:18:09.546226
+2025-12-31,Workout,Back day workout,False,2025-08-07 15:18:09.546226
+2025-08-07,Daily,Plyo Workout,False,2025-08-07 15:27:47.616991
+2025-12-06,Daily,and,False,2025-12-06 07:33:50.685044
